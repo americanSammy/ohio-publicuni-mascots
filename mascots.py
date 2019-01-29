@@ -17,7 +17,7 @@ mascots = {
     "youngstown state": "penguins"
     }
 print("Welcome to the Ohio Public University Mascot Finder")
-print("There are "  + str(len(mascots)) + " public universities in the state.")
+print("There are "  + str(len(mascots)) + " public universities in the Great State.")
 while True:
     school = input("Type in the name of your school: ").lower()
     if school in mascots:
