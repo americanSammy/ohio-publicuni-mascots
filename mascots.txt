@@ -1,0 +1,15 @@
+{
+    "akron": "zips",
+    "kent state": "golden flashes",
+    "bowling green": "falcons",
+    "ohio state": "buckeyes",
+    "cincinnati": "bearcats",
+    "miami": "redhawks",
+    "cleveland state": "vikings",
+    "toledo": "rockets",
+    "central state": "maurauder",
+    "ohio": "bobcats",
+    "wright state": "raiders",
+    "shawnee state": "bears",
+    "youngstown state": "penguins"
+    }
