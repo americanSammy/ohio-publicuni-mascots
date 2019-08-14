@@ -13,7 +13,7 @@ def mascot_finder():
         school = input("Type in the name of your school: ").lower()
         if school in mascots:
             print(mascots[school].capitalize())
-            go = input('Would you like contiue (yes/no): ').lower()
+            go = input('Would you like continue (yes/no): ').lower()
             if go not in {'yes', 'y', 'n', 'no'}:
                 while go not in {'yes', 'y', 'n', 'no'}:
                     print('I did not understand what you entered. Please try again.')
