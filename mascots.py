@@ -16,8 +16,8 @@ def mascot_finder():
             go = input('Would you like contiue (yes/no): ').lower()
             if go not in {'yes', 'y', 'n', 'no'}:
                 while go not in {'yes', 'y', 'n', 'no'}:
-                    print('I did not understand what you entered. Please try ag\ain.')
-                    go = input('Would you like contiue (yes/no): ').lower()
+                    print('I did not understand what you entered. Please try again.')
+                    go = input('Would you like continue (yes/no): ').lower()
         elif school not in mascots:
             print("I couldn't find that. Please try again.")
         else:
